@@ -8,7 +8,7 @@ description = ""
 authors = ["Viacheslav Bessonov <viacheslav.bessonov@hilbertteam.com>"]
 
 [tool.poetry.dependencies]
-python = "3.6"
+python = "^3.6"
 click = "^7.1.2"
 webpub_manifest_parser = { file = "lib/webpub_manifest_parser-0.0.4-py2.py3-none-any.whl" }
 
